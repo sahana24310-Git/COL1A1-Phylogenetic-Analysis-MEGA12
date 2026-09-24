@@ -109,7 +109,7 @@ The alignment file is included in this repository:
 `alignment/COL1A1_Genes.meg`
 
 ---
-
+```
 ### Step 5 — Phylogenetic Tree Construction
 
 A phylogenetic tree was constructed using the:
@@ -184,3 +184,19 @@ COL1A1-Phylogenetic-Analysis-MEGA12/
 │   └── phylogenetic_analysis_notes.md
 │
 └── README.md
+
+---
+```
+## 🔗 Resources
+
+- [NCBI Gene](https://www.ncbi.nlm.nih.gov/)
+- [MEGA Software](https://megasoftware.net/)
+
+---
+
+## 👩‍💻 Author
+
+**Sahana**
+
+M.Tech Computational Biology  
+Bioinformatics | Computational Biology | Genomics | NGS
